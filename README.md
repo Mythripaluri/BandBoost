@@ -1,6 +1,8 @@
 ﻿# BandBoost
 
-A modern, responsive landing page for BandBoost built with React, TypeScript, and Tailwind CSS.
+BandBoost is a modern IELTS preparation institute dedicated to helping students achieve their target band scores. We offer comprehensive IELTS training programs including speaking practice sessions, mock tests, AI-powered band score predictions, and personalized study plans to ensure students are fully prepared for their IELTS examination.
+
+This repository contains the responsive home page for BandBoost IELTS Institute built with React, TypeScript, and Tailwind CSS, featuring a professional design optimized for both desktop and mobile devices.
 
 ## Quick Setup
 
@@ -75,9 +77,18 @@ This project can be deployed to any static hosting service:
 - **Netlify** - Connect repository and set build command to npm run build
 - **GitHub Pages** - Use GitHub Actions with the build output
 
-## Contributing
-1. Fork the repository
-2. Create a feature branch (git checkout -b feature/amazing-feature)
-3. Commit your changes (git commit -m 'Add amazing feature')
-4. Push to the branch (git push origin feature/amazing-feature)
-5. Open a Pull Request
+## Task Requirements
+This project was built as a modern IELTS Institute home page with the following specifications:
+- ✅ **Responsive Design** - Optimized for both desktop and mobile devices
+- ✅ **Modern & Professional** - Clean, contemporary design suitable for an educational institute
+- ✅ **Complete Sections** - Navbar, Hero, Feature Cards, Testimonials, and Footer
+- ✅ **React Components** - Clean, reusable component architecture
+- ✅ **Quality UI/UX** - Focus on design excellence and user experience
+
+## Design Choices
+- **Component-Driven Architecture** - Each section is built as a reusable React component
+- **Tailwind CSS** - Utility-first approach for rapid, consistent styling
+- **shadcn/ui** - High-quality, accessible components for professional appearance
+- **TypeScript** - Type safety and better developer experience
+- **Mobile-First Design** - Responsive breakpoints ensure optimal viewing on all devices
+- **Performance Focus** - Optimized assets and code splitting for fast loading
