@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <!-- Gradient for the purple-yellow blob -->
+    <radialGradient id="blobGradient" cx="40%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#FFE066"/>
+      <stop offset="100%" stop-color="#B794F6"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="400" fill="#F7FAFC"/>
+  
+  <!-- Main blob shape -->
+  <path d="M120 180 C120 120, 180 100, 240 120 C300 140, 320 180, 300 220 C280 260, 240 280, 200 260 C160 240, 120 200, 120 180 Z" 
+        fill="url(#blobGradient)" 
+        opacity="0.9"/>
+  
+  <!-- Secondary blob -->
+  <ellipse cx="280" cy="200" rx="60" ry="40" 
+           fill="#E6FFFA" 
+           opacity="0.7"/>
+  
+  <!-- Decorative stars -->
+  <g fill="#2D3748">
+    <!-- Top right star -->
+    <path d="M320 120 L325 130 L335 130 L327 137 L330 147 L320 140 L310 147 L313 137 L305 130 L315 130 Z"/>
+    <!-- Bottom left star -->
+    <path d="M140 280 L145 290 L155 290 L147 297 L150 307 L140 300 L130 307 L133 297 L125 290 L135 290 Z"/>
+  </g>
+  
+  <!-- IELTS Hub text -->
+  <text x="200" y="190" 
+        font-family="serif" 
+        font-size="32" 
+        font-weight="500"
+        text-anchor="middle" 
+        fill="#2D3748">Ielts-hub</text>
+        
+  <!-- Circular outline -->
+  <circle cx="200" cy="200" r="120" 
+          fill="none" 
+          stroke="#2D3748" 
+          stroke-width="2" 
+          opacity="0.3"/>
+</svg>

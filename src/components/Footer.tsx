@@ -14,7 +14,7 @@ const Footer = () => {
               <div className="bg-primary-foreground/20 p-2 rounded-lg">
                 <GraduationCap className="h-6 w-6" />
               </div>
-              <span className="text-xl font-bold">IELTS Institute</span>
+              <span className="text-xl font-bold">IELTS Hub</span>
             </div>
             <p className="text-primary-foreground/80 leading-relaxed">
               Your trusted partner in IELTS preparation. We help students achieve their dream scores with expert guidance and innovative tools.
@@ -89,7 +89,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-foreground/20 mt-12 pt-8 text-center">
           <p className="text-primary-foreground/80">
-            © {currentYear} IELTS Institute. All rights reserved. Built with ❤️ for successful students.
+            © {currentYear} IELTS Hub. All rights reserved. Built with ❤️ for successful students.
           </p>
         </div>
       </div>

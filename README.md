@@ -1,8 +1,8 @@
-﻿# BandBoost
+﻿# IELTS Hub
 
-BandBoost is a modern IELTS preparation institute dedicated to helping students achieve their target band scores. We offer comprehensive IELTS training programs including speaking practice sessions, mock tests, AI-powered band score predictions, and personalized study plans to ensure students are fully prepared for their IELTS examination.
+IELTS Hub is a modern IELTS preparation institute dedicated to helping students achieve their target band scores. We offer comprehensive IELTS training programs including speaking practice sessions, mock tests, AI-powered band score predictions, and personalized study plans to ensure students are fully prepared for their IELTS examination.
 
-This repository contains the responsive home page for BandBoost IELTS Institute built with React, TypeScript, and Tailwind CSS, featuring a professional design optimized for both desktop and mobile devices.
+This repository contains the responsive home page for IELTS Hub built with React, TypeScript, and Tailwind CSS, featuring a professional design optimized for both desktop and mobile devices.
 
 ## Quick Setup
 
@@ -78,7 +78,7 @@ This project can be deployed to any static hosting service:
 - **GitHub Pages** - Use GitHub Actions with the build output
 
 ## Task Requirements
-This project was built as a modern IELTS Institute home page with the following specifications:
+This project was built as a modern IELTS Hub home page with the following specifications:
 - ✅ **Responsive Design** - Optimized for both desktop and mobile devices
 - ✅ **Modern & Professional** - Clean, contemporary design suitable for an educational institute
 - ✅ **Complete Sections** - Navbar, Hero, Feature Cards, Testimonials, and Footer

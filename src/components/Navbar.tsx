@@ -26,7 +26,7 @@ const Navbar = () => {
               <GraduationCap className="h-6 w-6 text-primary-foreground" />
             </div>
             <span className="text-xl font-bold text-primary group-hover:text-primary-glow transition-colors">
-              IELTS Institute
+              IELTS Hub
             </span>
           </Link>
 
